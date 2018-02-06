@@ -1,0 +1,14 @@
+{
+  "addMultiPage": [],
+  "extraBabelPlugins": [
+    [
+      "import",
+      [
+        {
+          "libraryName": "antd",
+          "style": true
+        }
+      ]
+    ]
+  ]
+}
